@@ -1,0 +1,26 @@
+@media screen and (max-width:1410px) {
+    .banner .imgarea{
+        width: 100%;
+    }
+
+    h1{
+        width: 640px;
+        font-size: 62px;
+    }
+    p{
+        font-size: 16px;
+        
+    }
+
+    .banner .textarea p{
+        padding: 30px 0;
+    }
+
+    .fa-solid{
+        margin: 0 0 0 -190px;
+    }
+
+    .mainNav{
+        right: 120px;
+    }
+}
